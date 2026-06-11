@@ -1,70 +1,65 @@
-<div align="center">
-
-# Hi there, I'm A S SUMITH! 👋
-
-<a href="https://github.com/Evilbyt">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=FF3B3B&center=true&vCenter=true&width=800&lines=Junior+Executive+-+IT;Aspiring+Ethical+Hacker;Passionate+About+Breaking+to+Secure;Skilled+in+Network+Defense+&+System+Hardening" alt="Typing SVG" />
-</a>
+markdown_content = """<h1 align="center">Hi there, I'm A S SUMITH (Evilbyt) 👨‍💻</h1>
+<h3 align="center">Junior Executive - IT | Aspiring Ethical Hacker | RedTeam Hacker Academy Trainee</h3>
 
 <p align="center">
-  IT professional with 1.5 years of experience in system monitoring, network security, and vulnerability assessment. Passionate about cybersecurity, ethical hacking, and ensuring data integrity through meticulous maintenance.
+  <b>Passionate About Breaking to Secure | Skilled in Network Defense, System Hardening & Vulnerability Assessment</b><br/>
+  IT professional with 1.5+ years of experience in system monitoring, network security, and vulnerability assessment. Passionate about cybersecurity and ethical hacking.
 </p>
 
-</div>
+## 🛡️ About Me
 
----
+I am a very structured and detail-conscious Computer Operator with over 2 years of experience in monitoring and maintaining computer systems and networks. I possess a proven history of enhancing system performance, enhancing data processes, and instituting effective troubleshooting protocols that reduce downtime and enhance productivity.
 
-### 🛡️ Cybersecurity & Technical Skills
+I have a background of operating and troubleshooting software and hardware in Windows and Linux operating systems with excellent file processing, scanning, and networking capabilities. I am proud to have the capability to troubleshoot technical problems in a timely manner, ensure data integrity, and keep the system secure through maintenance and vulnerability scanning.
 
-* **Cybersecurity Focus:** Vulnerability Scanning, Network Security, Penetration Testing, Ethical Hacking, Security Auditing.
-* **System & Operations:** Windows/Linux Administration, Network Management, Python Scripting, System Optimization, Troubleshooting.
+## ⚔️ Skills & Services
 
-### 🛠️ Pentesting Tools & Arsenal
+### Cybersecurity Skills
+- **Vulnerability Scanning** & **Security Auditing**
+- **Network Security** & **Penetration Testing**
+- **Ethical Hacking**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Nmap-222222?style=for-the-badge&logo=nmap" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-222222?style=for-the-badge" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/John_the_Ripper-222222?style=for-the-badge" alt="John the Ripper" />
-  <img src="https://img.shields.io/badge/Aircrack--ng-222222?style=for-the-badge" alt="Aircrack-ng" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+### Technical Skills
+- **Windows/Linux Administration**
+- **Network Management** & **Troubleshooting**
+- **Python Scripting** & **System Optimization**
+
+### Services
+- System Monitoring & Maintenance
+- Troubleshooting & Problem-Solving
+- Data Entry & File Processing
+- Networking & Network Management
+- Cybersecurity Implementation
+
+## 🧰 Pentesting Arsenal
+
+| Tool | Description |
+|------|-------------|
+| **Nmap** | Network discovery and security auditing tool. Used for host discovery, port scanning, version detection, and OS fingerprinting. |
+| **Metasploit** | Penetration testing framework that enables developing and executing exploit code against a remote target machine. |
+| **Wireshark** | Network protocol analyzer that lets you capture and interactively browse the traffic running on a computer network. |
+| **Burp Suite** | Integrated platform for performing security testing of web applications. |
+| **John the Ripper** | Fast password cracker tool to detect weak Unix passwords. |
+| **Aircrack-ng** | Complete suite of tools to assess WiFi network security focusing on monitoring, attacking, testing and cracking. |
+
+## 🚀 Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Advanced Multi-threaded Port Scanner** | Python tool that scans a target host for open TCP ports and grabs banners. | [View Project](https://github.com/Evilbyt/port-scanner/) |
+| **Password Strength Checker (GUI)** | A simple desktop app built with Python's Tkinter. Checks password strength. | [View Project](https://github.com/Evilbyt/passwd/) |
+| **Advanced Phishing Simulator** | A realistic phishing simulation tool for security awareness training. | [View Project](https://github.com/Evilbyt/phishing/) |
+| **ESP8266 Wi-Fi Deauthentication Attack** | Demonstrate how an ESP8266 running Deauther firmware can send Wi-Fi deauthentication packets to kick devices off a Wi-Fi network in a controlled lab environment. | [View Project](https://github.com/Evilbyt/ESP8266-writeups/blob/main/Labs/ESP8266_WiFi_Deauth.md) |
+
+## 🏆 Badges & Certificates
+
+- **Introduction to Cybersecurity** - [View Details](https://www.credly.com/badges/79fd97c8-497c-46fe-a6af-941fd9cffeb2/public_url)
+- **Computer Hardware Basics** - [View Details](https://www.credly.com/badges/a8a670d6-aa71-41b7-97eb-d0697b83e9d3/public_url)
+- **Certified Penetration Tester** - [View Details](https://redteamacademy.com/courses/cpt-hq/)
+- **Linux Unhatched** - [View Details](https://www.credly.com/badges/7858ff23-0f2c-4953-85b9-2eb1dabe5281/public_url)
+
+## 📫 Connect With Me
+
+<p align="center">
+  📍 Chennai, Tamil Nadu, India | 📞 +91 6382626246 | 📧 www.sumithjohn1947@gmail.com
 </p>
-
----
-
-### 💻 Featured Projects
-
-* 🔌 **[Advanced Multi-threaded Port Scanner](https://github.com/Evilbyt/port-scanner/)**: A Python tool that scans a target host for open TCP ports and grabs banners.
-* 🎣 **[Advanced Phishing Simulator](https://github.com/Evilbyt/phishing/)**: A realistic phishing simulation tool designed for security awareness training.
-* 📡 **[ESP8266 Wi-Fi Deauthentication Attack](https://github.com/Evilbyt/ESP8266-writeups/blob/main/Labs/ESP8266_WiFi_Deauth.md)**: A demonstration of how an ESP8266 running Deauther firmware can send Wi-Fi deauthentication packets in a controlled lab environment.
-* 🔑 **[Password Strength Checker](https://github.com/Evilbyt/passwd/)**: A simple desktop application built with Python's Tkinter to evaluate password resilience.
-
----
-
-### 🏆 Certifications & Badges
-
-* **Certified Penetration Tester** | RedTeam Hacker Academy
-* **Introduction to Cybersecurity**
-* **Computer Hardware Basics**
-* **Linux Unhatched** | Cisco Networking Academy
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evilbyt&show_icons=true&theme=radical&hide_border=true&title_color=FF3B3B&icon_color=FF3B3B" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evilbyt&layout=compact&theme=radical&hide_border=true&title_color=FF3B3B" alt="Top Languages" />
-</div>
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-  <a href="mailto:www.sumithjohn1947@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/evilbyt"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/evilbyt/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</div>
